@@ -1,0 +1,44 @@
+prohibited items
+1	Perishables	
+2	Antiques / art works	
+3	Fire arms & fire works	
+4	Pornography materials	
+5	Articles for cities not listed	
+6	Tobacco & tobacco products	
+7	Explosives / military equipments	
+8	Share certificates & lottery tickets	
+9	Gold, silver, diamonds, precious stones or articles made of these	
+10	Passports	
+11	Money (cash & cash equivalent instruments in bearer form)	
+12	Temperature sensitive goods
+13	Banned skins / hides
+14	Any type of liquid product
+15	IATA restricted articles 
+16	Letters with post box no.
+17	Drugs & alcoholic beverages
+18	Poultry, live stock, plants etc.
+19	Inflammable / chemical powders
+20	Human corpses,organs & body parts
+21	Articles for Cantt. area or with APO address
+22	Personal mail / postal articles / stamped envelopes
+23	Any other item which is dangerous to carry
+
+
+
+
+
+
+regulatory
+While booking consignments through Khubani Air Pack , We request our customers to adhere to all terms and condition mentioned below.
+Consignor ( with name, address, ph number)
+Consignee ( with name, address, ph number)
+Origin ( place of booking ) / Destination ( place of delivery )
+Dox / Non-Dox/ Samples. / Number of pieces.
+Mode of transport. ( Air/ Train/ Surface )
+Contents /Weight of the consignment.
+Value of consignment. Insurance ( If the value is above Rs. 1000/- )
+Invoice, Declaration and relevant sales tax form should be attached for the commercial shipments. All samples and valuable shipments excluding documents will be accepted in open condition. Consignments without mentioned value and senders signature will be deemed to be considered as dox.
+In no event, Khubani Air Pack shall be responsible for any loss or damage either directly or indirectly, incidentally, consequentlly or otherwise, arising out of access or use or dissemination of information contained on our website, including, but not limited to, loss of profits, data, or damage to users computer systems or to any individual or entity.
+The informations, contents, names, images etc may be changed, modified, updated and/or improved from time-to-time without notice at the sole discretion of Kubhani Air Pack.
+By accessing this website, the user accepts to the following:
+That the information contained in the website shall not be treated as legal or professional information or advise.
